@@ -35,19 +35,4 @@ margin-top: 5rem ;
     transition: transform 0.5s;
 }
 
-  /*  @media(max-width:1024px)
-    {
-         .tab-none
-         {
-            display: none;
-         }
- };
- @media(max-width:678px)
- {
-    #about
-    {
-        margin: 1px ;
-        padding: ;
-    }
- }
     
